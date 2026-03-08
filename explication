@@ -1,0 +1,4 @@
+import random permet d ajouter la fonction random qui va choisir un nombre aléatoire
+random.randint permet au programme de choisir un nombre entre 1 et 50
+if guess < nombre_secret permet de donner l indication  du nombre comme , elif guess > nombre_secret
+si l utilisateur trouve le bon nombre alors le programme s arrete avec la fonction break
